@@ -8,7 +8,7 @@ public class GitTest {
         String helloWorld = "Hello World";
         
         System.out.println(helloWorld);
-        
+        //Keeping it easy for a Git test
     }
     
 }
